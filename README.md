@@ -54,10 +54,12 @@ During the negative half cycle of the supply, diodes D3 and D4 conduct in series
 ## Graphs:
 
 **Input Waveform (AC)**
+
 ![Input Waveform](../master/images/i.png) 
 
 
 **Output Waveform (DC)**    
+
 ![Output Waveform](../master/images/o.png) 
 
 
