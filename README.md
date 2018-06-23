@@ -28,8 +28,11 @@ During the negative half cycle of the supply, diodes D3 and D4 conduct in series
 
 
 
+
 ## Conclusion:
  As the current flowing through the load is unidirectional, so the voltage developed across the load is also unidirectional. Hence the AC voltage signal has been rectified to a uni-directional DC voltage signal.
+
+
 
 
 ## Circuit Diagram of Full Wave Bridge Rectifier (MATLAB Implementation): 
