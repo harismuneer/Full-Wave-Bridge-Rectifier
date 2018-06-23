@@ -7,7 +7,7 @@ A bridge rectifier is an arrangement of four diodes in a bridge circuit configur
 
 ![Image of FW Bridge Rectifier](../master/images/main.PNG) 
 
-    **Full Wave Bridge Rectifier**
+                                             **Full Wave Bridge Rectifier**
 
 
 The four diodes labeled D1 to D4 are arranged in “series pairs” with only two diodes conducting current during each half cycle.
@@ -18,14 +18,16 @@ During the positive half cycle of the supply, diodes D1 and D2 conduct in series
 
 ![Image of Positive Half Cycle](../master/images/p.png) 
 
-    *Positive Half Cycle*
+
+                                             *Positive Half Cycle*
 
 ## 2) The Negative Half-Cycle:
 During the negative half cycle of the supply, diodes D3 and D4 conduct in series, but diodes D1 and D2 switch “OFF” as they are now reverse biased. The current is flowing through the load in the same direction as before.
  
 ![Image of Negative Half Cycle](../master/images/n.png) 
 
-    *Negative Half Cycle*
+
+                                             *Negative Half Cycle*
 
 ## Conclusion:
  As the current flowing through the load is unidirectional, so the voltage developed across the load is also unidirectional. Hence the AC voltage signal has been rectified to a uni-directional DC voltage signal.
@@ -34,7 +36,8 @@ During the negative half cycle of the supply, diodes D3 and D4 conduct in series
 ## Circuit Diagram of Full Wave Bridge Rectifier (MATLAB Implementation): 
 ![Matlab Implementation of FWBR](../master/images/m.png) 
                   
-     *Design on MATLAB*
+
+                                             *Design on MATLAB*
                   
 ## Design Detail:
 
@@ -52,11 +55,12 @@ During the negative half cycle of the supply, diodes D3 and D4 conduct in series
 
 ![Input Waveform](../master/images/i.png) 
 
-    **Input Waveform (AC)**
+
+                                             ** Input Waveform (AC) **
     
 ![Output Waveform](../master/images/o.png) 
 
-    **Output Waveform (DC)**
+                                             ** Output Waveform (DC) **
 
 
 
