@@ -66,7 +66,9 @@ During the negative half cycle of the supply, diodes D3 and D4 conduct in series
 ![Output Waveform](../master/images/o.png) 
 
 
+## How to Run:
 
+Install MATLAB and just open the "FWBridgeRectifier.slx"
 
 
 
