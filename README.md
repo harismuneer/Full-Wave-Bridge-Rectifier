@@ -1,4 +1,4 @@
-# Full-Wave-Bridge-Rectifier
+# ✨ Full-Wave-Bridge-Rectifier
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
 [![GitHub Forks](https://img.shields.io/github/forks/harismuneer/Full-Wave-Bridge-Rectifier.svg?style=social&label=Fork&maxAge=2592000)](https://www.github.com/harismuneer/Full-Wave-Bridge-Rectifier/fork)
